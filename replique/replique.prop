@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "replique"  : {
+      "description": "replique",
+	  "answers"    : "c'est parti !",
+      "version": "1.0"
+    }
+  }
+}
